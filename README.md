@@ -7,5 +7,5 @@ Sample output
 
 
 # Exer 1: Image-Processing-Techniques	
-
-
+![image](https://github.com/user-attachments/assets/1d317cb7-abc7-4bab-9bd9-c54577d45377)
+![image](https://github.com/user-attachments/assets/5a691262-aa7e-4210-bcf2-d853c0a4f58a)
