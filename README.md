@@ -13,3 +13,13 @@ Sample output
 
 # Machine Problem 2: Applying Image Processing Techniques
 ![image](https://github.com/user-attachments/assets/53b5345c-2980-483b-ad1e-d11816c5edfd)
+
+
+# Exer 2: Feature Extraction Method
+[4A-Gagalang-Exer2.pdf](https://github.com/user-attachments/files/17265041/4A-Gagalang-Exer2.pdf)
+![image](https://github.com/user-attachments/assets/7715cf60-544a-4bdb-8001-c6007e9f412a)
+
+
+# Machine Problem 3: Feature Extraion and Object Detection
+![image](https://github.com/user-attachments/assets/b9517add-0a20-4195-9200-36b1a9956689)
+
